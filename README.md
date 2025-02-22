@@ -1,6 +1,5 @@
 # Guitar-Teaching-App
  A basic Guitar Teaching App for a 1-month University Project
- Below is the Overview and Code details; however, full a full development documentation you can refer to the pdf file included in this repository.
 
 # Overview
 
@@ -12,7 +11,7 @@ This way the user gets up to speed with playing the guitar with exceptional clar
 
 The reason I chose this project is that playing the guitar is my hobby and I found it to be an exciting prospect to create an app related to it; one that is not too complicates as I am new to the Software Development/Mobile Development field. 
 
-Furthermore, there are hundreds of thousands of people across the world that have had a fleeting thought of wanting to learn the guitar but do not have access to a good teacher that is convenient and not costly either. At the end of the day this app gives me a potential revenue stream as well. 
+Furthermore, there are hundreds of thousands of people across the world that have had a fleeting thought of wanting to learn the guitar but do not have access to a good teacher that is convenient and not costly either. At the end of the day this app gives me a potential revenue stream as well.
 
 # How To Run
 
