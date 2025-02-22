@@ -13,6 +13,8 @@ The reason I chose this project is that playing the guitar is my hobby and I fou
 
 Furthermore, there are hundreds of thousands of people across the world that have had a fleeting thought of wanting to learn the guitar but do not have access to a good teacher that is convenient and not costly either. At the end of the day this app gives me a potential revenue stream as well.
 
+NOTE: Upon downloading the project folder, refer to the pdf file for full development documentation
+
 # How To Run
 
 Download the project on to your computer. Open the folder in Android Studio.
