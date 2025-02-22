@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BasicActivity">
+
+    <ImageView
+        android:id="@+id/notesTheme"
+        android:layout_width="425dp"
+        android:layout_height="862dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.503"
+        app:srcCompat="@drawable/notestheme" />
+
+    <Button
+        android:id="@+id/strumming"
+        style="@style/Widget.MaterialComponents.Button"
+        android:layout_width="308dp"
+        android:layout_height="62dp"
+        android:layout_marginTop="55dp"
+        android:text="Strumming"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.445"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.078" />
+
+    <Button
+        android:id="@+id/chordsMajor"
+        android:layout_width="308dp"
+        android:layout_height="62dp"
+        android:text="Major Chords"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/strumming"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/strumming"
+        app:layout_constraintTop_toBottomOf="@+id/strumming"
+        app:layout_constraintVertical_bias="0.174" />
+
+    <Button
+        android:id="@+id/chordsMinor"
+        android:layout_width="308dp"
+        android:layout_height="62dp"
+        android:text="Minor Chords"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/chordsMajor"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/chordsMajor"
+        app:layout_constraintTop_toBottomOf="@+id/chordsMajor"
+        app:layout_constraintVertical_bias="0.254" />
+
+    <Button
+        android:id="@+id/basicTasks"
+        android:layout_width="308dp"
+        android:layout_height="62dp"
+        android:text="Basic Tasks"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/chordsMinor"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/chordsMinor"
+        app:layout_constraintTop_toBottomOf="@+id/chordsMinor"
+        app:layout_constraintVertical_bias="0.47" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

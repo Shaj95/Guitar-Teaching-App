@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GettingStarted">
+
+    <ImageView
+        android:id="@+id/notesTheme"
+        android:layout_width="425dp"
+        android:layout_height="862dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/notestheme" />
+
+    <Button
+        android:id="@+id/guitarParts"
+        android:layout_width="287dp"
+        android:layout_height="63dp"
+        android:text="Guitar Parts"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.129" />
+
+    <Button
+        android:id="@+id/stringNames"
+        android:layout_width="287dp"
+        android:layout_height="63dp"
+        android:layout_marginTop="24dp"
+        android:text="Strings and Notes"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/guitarParts"
+        app:layout_constraintStart_toStartOf="@+id/guitarParts"
+        app:layout_constraintTop_toBottomOf="@+id/guitarParts"
+        app:layout_constraintVertical_bias="0.127" />
+
+    <Button
+        android:id="@+id/pickHold"
+        android:layout_width="287dp"
+        android:layout_height="63dp"
+        android:text="How To Hold A Pick"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/stringNames"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/stringNames"
+        app:layout_constraintTop_toBottomOf="@+id/stringNames"
+        app:layout_constraintVertical_bias="0.271" />
+
+    <Button
+        android:id="@+id/pressStrings"
+        android:layout_width="287dp"
+        android:layout_height="63dp"
+        android:text="How to Press Strings"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/pickHold"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/pickHold"
+        app:layout_constraintTop_toBottomOf="@+id/pickHold"
+        app:layout_constraintVertical_bias="0.47" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

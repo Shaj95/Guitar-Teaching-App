@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="guitarParts1">
+        "Learning to play the guitar can be quite daunting at first but it is quite a rewarding journey if you stick with it! As with learning any new task, always remember that it looks harder than it is.
+
+You must bear in mind that it will require about 2-3 months of consistent practice and working your way through all the teachings provided in this in order to be able to play the guitar on your own. Memorization is extremely important and will vastly speed up your learning process.
+
+Once you’ve become good at it, you can enjoy playing the guitar anywhere, any time. You can play amongst your friends and even take it to the beach. The beautiful thing about this instrument is that it is very convenient in terms of logistics. So crack on with your learning and you’ll be playing some of your favorite tunes in no time!
+
+In order to begin playing the guitar, it is essential to know the parts it comprises of; and these parts must be at the fingertips (pun intended) of every guitar player because you will interact with them on a regular basis.
+
+This app will solely focus on an acoustic guitar's make up. New guitarists are advised to begin learning on an acoustic guitar before picking up an electric guitar.
+
+The key parts of a guitar are shown in the image below:
+
+    "</string>
+
+    <string name="guitarParts2">"As you can see there are 7 important parts that you must be aware of before you begin playing. Starting from the Body of the guitar, this is the main, curved wooden construction that is often made of different types of wood, and it is responsible for the acoustics of the sound.
+
+The bridge houses the pins that fix the strings firmly in place into their 6 respective holes, as well as the saddle. The saddle has 6 tiny cut outs that are just wide enough for each string to sit unmoving within them as they stretch out towards the fretboard. The saddle also plays a role in how high or low the strings are away from the fretboard, which affects how easy or difficult it will be to press them down to produces various notes. The saddle’s height can be shaved using material such as sandpaper in order to reduce the height of the strings away from the fretboard.
+
+The fretboard is part and parcel of the long neck of the guitar. It is a collection of the numerous squares called ‘frets’ that can be clearly seen separated by dividers. Some frets have dots on them whereas others do not. This is in order to help a guitarist navigate their way along the fretboard with ease.
+
+As we move to the top of the guitar, the strings pass over the nut which plays a similar role to the saddle in that it has tiny cuts for the strings to sit within it. When played open, the strings vibrate between the two fixed points of the saddle and the nut. These distances have been carefully measured in order to produce the right pitch with the frets divided between them accurately such that the pitch, or rather the note, varies as we press the string down on a different fret i.e by shortening the wavelength of the vibrating string if you’re into physics!
+
+Finally, we come to the machine heads, also known more commonly as tuning heads. These, as the name implies are responsible for tightening or loosening the strings, thereby altering their pitch of their sound. The more tension in the string, the faster it will oscillate when struck. It is very important to make sure you know which direction the tuning heads should be turned in order to achieve your desired result. This is because you may cause an already tight string to snap if you accidentally tighten it further when your aim was to loosen it. To prevent this, it is conventional to have all tuning heads on one side to tighten or loosen in the same direction.
+
+Now that you are familiar with the parts you are ready to learn the names of the strings!
+
+    "</string>
+
+</resources>
